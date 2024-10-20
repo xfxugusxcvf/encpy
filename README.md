@@ -21,3 +21,9 @@ curl -o x.py https://raw.githubusercontent.com/xfxugusxcvf/encpy/main/x.py
 ```
 python x.py
 ```
+
+<h6>DONASI 😁</h6>
+<h6>
+Dana : 083894392607
+Gopay : 083894392607
+</h6>
